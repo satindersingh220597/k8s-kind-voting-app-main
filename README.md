@@ -20,7 +20,8 @@ This guide covers the steps to:
 
 ## Observability
 
-![Grafana diagram](grafana.png)
+<img width="942" height="377" alt="image" src="https://github.com/user-attachments/assets/a819f0b1-0270-4baa-8369-6b96ca316784" />
+
 ![Prometheus diagram](prometheus.png)
 
 * A front-end web app in [Python](/vote) which lets you vote between two options
